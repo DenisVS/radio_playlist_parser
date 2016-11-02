@@ -151,7 +151,7 @@ foreach( $template as $temp )	{
 	$outNames = implode(', ', $program[$num]['names']);
 echo "Out ".$outNames."\n";
 	//$xml->trackList->track[$numberOfItem]->title = $program[$num]['names'][0]." - ".$program[$num]['rubric'];
-	$xml->trackList->track[$numberOfItem]->title = $outNames." (".$program[$num]['rubric'].")";
+	$xml->trackList->track[$numberOfItem]->title = $outNames." (".$program[$num]['rubric']." ".$program[$num]['datetime'].")";
 	$xml->trackList->track[$numberOfItem]->location = $program[$num]['mp3'];
 	$num = $num+1;
 }	
