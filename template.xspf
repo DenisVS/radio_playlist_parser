@@ -48,7 +48,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://s03.radio-tochka.com:6325/listen.pls</location>
+			<location>http://s02.radio-tochka.com:4900/radio</location>
 			<title>Радио Гималаи</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>8</vlc:id>
@@ -147,7 +147,7 @@
 		</track>
 		<track>
 			<location>http://as-hds-ww-live.edgesuite.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8</location>
-			<title>BBC radio four Extra</title>
+			<title>BBC radio Four Extra</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>21</vlc:id>
 			</extension>

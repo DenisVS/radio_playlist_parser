@@ -149,13 +149,13 @@ foreach( $template as $temp )	{
 	
 	echo $numberOfItem . "-----------\n";
 	$outNames = implode(', ', $program[$num]['names']);
-echo "Out ".$outNames."\n";
+	echo "Out ".$outNames."\n";
 	//$xml->trackList->track[$numberOfItem]->title = $program[$num]['names'][0]." - ".$program[$num]['rubric'];
 	$xml->trackList->track[$numberOfItem]->title = $outNames." (".$program[$num]['rubric']." ".$program[$num]['datetime'].")";
 	$xml->trackList->track[$numberOfItem]->location = $program[$num]['mp3'];
 	$num = $num+1;
 }	
 
-$xml->asXML('../data/radio.xspf');
+$xml->asXML('/data/playlist/data/radio.xspf');
 
 ?>
