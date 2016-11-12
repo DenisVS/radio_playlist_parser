@@ -127,6 +127,7 @@ $template[] = 'CUSTOM_TITLE_6';
 $template[] = 'CUSTOM_TITLE_7';
 $template[] = 'CUSTOM_TITLE_8';
 $template[] = 'CUSTOM_TITLE_9';
+$template[] = 'CUSTOM_TITLE_10';
 
 $doc = new DOMDocument();
 $doc->load( 'template.xspf' );
