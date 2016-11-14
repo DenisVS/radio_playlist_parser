@@ -132,8 +132,8 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_6/live/bbc_radio_fourlw/bbc_radio_fourlw.isml/bbc_radio_fourlw-audio=320000.m3u8</location>
-			<title>BBC radio Four LW</title>
+			<location>http://149.56.23.7:20006/listen.pls?sid=1</location>
+			<title>Gothique - WildCat</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>20</vlc:id>
 			</extension>
@@ -153,8 +153,8 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio=320000.m3u8</location>
-			<title>BBC Asian Network</title>
+			<location>http://66.55.145.43:7037/</location>
+			<title>Gothique13</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>23</vlc:id>
 			</extension>
@@ -210,16 +210,16 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://217.76.201.26:8000/</location>
-			<title>Киев 98 FM</title>
+			<location>http://149.56.23.7:20188/listen.pls?sid=1</location>
+			<title>Celtic Moon Live</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>30</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
 			</extension>
 		</track>
 		<track>
-			<location>http://media-ice.musicradio.com:80/CapitalMP3</location>
-			<title>Capital London</title>
+			<location>http://relay.myradio.ua:8000/HardRock128.mp3</location>
+			<title>Classic Rock</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>31</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
