@@ -308,10 +308,19 @@
 		</track>
 
 		<track>
+			<location>http://media-sov.musicradio.com:80/ChillMP3</location>
+			<title>Chill</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+
+
+		<track>
 			<location>CUSTOM_URL_1</location>
 			<title>CUSTOM_TITLE_1</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>42</vlc:id>
+				<vlc:id>43</vlc:id>
 			</extension>
 		</track>
 		
@@ -320,7 +329,7 @@
 			<location>CUSTOM_URL_2</location>
 			<title>CUSTOM_TITLE_2</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>43</vlc:id>
+				<vlc:id>44</vlc:id>
 			</extension>
 		</track>
 		
@@ -329,7 +338,7 @@
 			<location>CUSTOM_URL_3</location>
 			<title>CUSTOM_TITLE_3</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>44</vlc:id>
+				<vlc:id>45</vlc:id>
 			</extension>
 		</track>
 		
@@ -338,7 +347,7 @@
 			<location>CUSTOM_URL_4</location>
 			<title>CUSTOM_TITLE_4</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>45</vlc:id>
+				<vlc:id>46</vlc:id>
 			</extension>
 		</track>
 		
@@ -347,42 +356,42 @@
 			<location>CUSTOM_URL_5</location>
 			<title>CUSTOM_TITLE_5</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>46</vlc:id>
+				<vlc:id>47</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>CUSTOM_URL_6</location>
 			<title>CUSTOM_TITLE_6</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>47</vlc:id>
+				<vlc:id>48</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>CUSTOM_URL_7</location>
 			<title>CUSTOM_TITLE_7</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>48</vlc:id>
+				<vlc:id>49</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>CUSTOM_URL_8</location>
 			<title>CUSTOM_TITLE_8</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>49</vlc:id>
+				<vlc:id>50</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>CUSTOM_URL_9</location>
 			<title>CUSTOM_TITLE_9</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>50</vlc:id>
+				<vlc:id>51</vlc:id>
 			</extension>
 		</track>		
 		<track>
 			<location>CUSTOM_URL_10</location>
 			<title>CUSTOM_TITLE_10</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>51</vlc:id>
+				<vlc:id>52</vlc:id>
 			</extension>
 		</track>
 
@@ -442,5 +451,6 @@
 			<vlc:item tid="49"/>
 			<vlc:item tid="50"/>
 			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
 	</extension>
 </playlist>
