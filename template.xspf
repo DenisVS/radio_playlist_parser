@@ -104,29 +104,29 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_7/live/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8</location>
-			<title>BBC radio One</title>
+			<location>http://nprdmp-live01-mp3.akacast.akamaistream.net/7/998/364916/v1/npr.akacast.akamaistream.net/nprdmp_live01_mp3</location>
+			<title>NPR</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8</location>
-			<title>BBC radio Two</title>
+			<location>http://66.225.205.8:8000</location>
+			<title>Folk Alley</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>17</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8</location>
-			<title>BBC radio Three</title>
+			<location>http://77.74.192.50:8005</location>
+			<title>RockRadio1</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>18</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8</location>
-			<title>BBC radio Four FM</title>
+			<location>http://89.31.134.107:92</location>
+			<title>RockSection - Austrian Rock Music WebRadio - MusicBase.FM</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>19</vlc:id>
 			</extension>
@@ -139,15 +139,15 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8</location>
-			<title>BBC radio Four Extra</title>
+			<location>http://84.19.188.7:8010</location>
+			<title>Munich's Hardest Hits</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>21</vlc:id>
 			</extension>
 		</track>
 		<track>
-			<location>http://as-hds-ww-live.edgesuite.net/pool_6/live/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8</location>
-			<title>BBC 6 Music</title>
+			<location>http://68.178.199.78:8000</location>
+			<title>Radio Free Phoenix</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>22</vlc:id>
 			</extension>
@@ -394,8 +394,104 @@
 				<vlc:id>52</vlc:id>
 			</extension>
 		</track>
-
-
+		<track>
+			<location>http://46.105.180.202:8117/stream128</location>
+			<title>The Best Of Cafe Del Mar</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://icecast.orpheus.cdnvideo.ru/orpheus_192</location>
+			<title>Радио "Орфей"</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://listen.openstream.co/2616</location>
+			<title>Ambiento Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://46.105.180.202:8053/live</location>
+			<title>FOREX CHILL MUSIC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://109.169.26.216:2199/stream.php?port=8020</location>
+			<title>ChilloutTreePines</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://miba-piano.de:8200/</location>
+			<title>Miba-Piano: Piano Improvisation</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://50.7.71.27:9657/</location>
+			<title>Highlander Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://s5.radioboss.fm:8386/stream</location>
+			<title>New Russian Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://backbonenetworks.streamguys.com/OMtimes1.mp3</location>
+			<title>OMTimes Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://14123.live.streamtheworld.com:3690/SAM06AAC226_SC</location>
+			<title>Unity.FM | The Voice of an Awakening World</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice8.securenetsystems.net/VARIETY</location>
+			<title>VOA VARIETY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice8.securenetsystems.net/VAHEALTH</location>
+			<title>VOA VAHEALTH</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice8.securenetsystems.net/BUSINESS</location>
+			<title>VOA BUSINESS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://ice8.securenetsystems.net/EMPOWER</location>
+			<title>VOA EMPOWER</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 
@@ -452,5 +548,19 @@
 			<vlc:item tid="50"/>
 			<vlc:item tid="51"/>
 			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
 	</extension>
 </playlist>
