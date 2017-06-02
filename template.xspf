@@ -186,7 +186,7 @@
 		</track>
 		<track>
 			<location>http://www.voanews.com/mp3/voa/english/nnow/NNOW_HEADLINES.mp3</location>
-			<title>VOA News</title>
+			<title>Voice Of America News</title>
 			<duration>298056</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>27</vlc:id>
@@ -466,28 +466,28 @@
 		</track>
 		<track>
 			<location>http://ice8.securenetsystems.net/VARIETY</location>
-			<title>VOA VARIETY</title>
+			<title>Voice Of America VARIETY</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>63</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://ice8.securenetsystems.net/VAHEALTH</location>
-			<title>VOA VAHEALTH</title>
+			<title>Voice Of America VAHEALTH</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>64</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://ice8.securenetsystems.net/BUSINESS</location>
-			<title>VOA BUSINESS</title>
+			<title>Voice Of America BUSINESS</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>65</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://ice8.securenetsystems.net/EMPOWER</location>
-			<title>VOA EMPOWER</title>
+			<title>Voice Of America EMPOWER</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>66</vlc:id>
 			</extension>
