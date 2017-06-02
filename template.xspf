@@ -473,7 +473,7 @@
 		</track>
 		<track>
 			<location>http://ice8.securenetsystems.net/VAHEALTH</location>
-			<title>Voice Of America VAHEALTH</title>
+			<title>Voice Of America Health And Wellness</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>64</vlc:id>
 			</extension>
